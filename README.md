@@ -24,4 +24,4 @@ git push -u origin master
 ### …and we're done!
 Fire up a browser and go to username.github.io
 
-## Good lUck 
+## Good luck 
