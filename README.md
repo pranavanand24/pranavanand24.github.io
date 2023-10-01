@@ -14,7 +14,7 @@ Hi there👋 , I am a budding software developer and aspiring AI researcher. I'm
 
 **Experience**
 
-**Machine Learning Engineer Intern at WiJungle, Gurugram (WFH) [Jan 2022 - Jun 2022]**
+**Machine Learning Engineer Intern at WiJungle [Jan 2022 - Jun 2022]**
   
 • Worked on designing, developing, and researching ML-based systems, models, and schemes.
 
