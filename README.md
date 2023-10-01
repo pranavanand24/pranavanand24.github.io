@@ -1,3 +1,5 @@
+**About**
+
 Hi there👋 , I am a budding software developer and aspiring AI researcher. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems.
 
 📌 I mainly work with Python, C# and its libraries & frameworks, machine learning, deep learning, computer vision, reinforcement learning, and natural language processing.
