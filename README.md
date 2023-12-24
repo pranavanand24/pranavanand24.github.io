@@ -1,13 +1,17 @@
 **About**
 
 
-Greetings! 👋 I am a dynamic software developer with a fervent passion for delving into the intricate realms of artificial intelligence. Constantly driven by an insatiable curiosity, I eagerly embrace opportunities to absorb and adeptly apply cutting-edge technologies across diverse domains.
 
-🚀 My expertise encompasses the utilization of Python and C# alongside their rich array of libraries and frameworks. My forte lies in the intricate fields of machine learning, deep learning, computer vision, reinforcement learning, and natural language processing.
+Greetings! 👋 I am an aspiring product manager with a solid foundation in software development, poised to contribute my expertise to drive successful product outcomes. My background as a software developer provides me with a unique perspective on technology, and my passion for delving into the nuances of artificial intelligence positions me as a valuable asset for steering product strategies in innovative directions. Eager to stay abreast of the ever-evolving tech landscape, I actively pursue opportunities to integrate cutting-edge technologies into products and navigate their seamless application across various domains.
 
-📚 Currently, my intellectual pursuits involve immersing myself in the profound world of research papers. I am dedicated to unraveling the complexities within, fostering a deep understanding of the intricacies that drive innovation in the field.
 
-🤝 Actively seeking collaborative ventures, I am keen to contribute my skills and knowledge to meaningful artificial intelligence research projects. Let's forge ahead together in the pursuit of groundbreaking advancements!
+🚀 As an aspiring Product Manager, I bring a wealth of expertise in leveraging Python and C# and their associated libraries and frameworks. My strengths lie in navigating the complex domains of machine learning, deep learning, computer vision, reinforcement learning, and natural language processing. I excel at applying these technical skills to drive product innovation, enhance user experiences, and align technology solutions with strategic business goals.
+
+
+📚 Currently, my intellectual pursuits involve actively engaging in intellectual pursuits that revolve around delving into research papers and dissecting case studies relevant to the dynamic landscape of product development. My commitment lies in unraveling the intricacies that shape successful product strategies, fostering a profound understanding of the factors driving innovation within the industry. This approach not only enhances my knowledge base but also equips me with valuable insights to make informed decisions and drive impactful outcomes in the realm of product management.
+
+
+🤝 I am proactively seeking opportunities to engage in collaborative ventures where I can leverage my skills and knowledge to drive impactful projects. I am enthusiastic about leading teams toward innovative breakthroughs and am eager to join forces in the pursuit of pioneering advancements in the product landscape. Let's chart a course for success together!
 
 
 **Education**
@@ -21,11 +25,14 @@ Greetings! 👋 I am a dynamic software developer with a fervent passion for del
 **🏭 Software Development Engineer at Landis Gyr [Aug 2022 - Present]**
 
 
-• Pioneered the inception of an automated system harnessing cutting-edge computer vision for intelligent devices. Orchestrated the entire process by architecting a seamless pipeline, encompassing data collection, precision labeling with Roboflow, Python-based preprocessing, and leveraging various YOLO frameworks in PyTorch for model implementation. This holistic approach not only streamlined testing processes but also significantly amplified operational efficiency.
+• Spearheaded the development of an automated system featuring advanced computer vision for smart devices. Orchestrated the end-to-end process, from conceptualization to implementation, by creating a seamless pipeline. Integrated data collection, precision labeling with Roboflow, Python-based preprocessing, and employed various YOLO frameworks in PyTorch. The streamlined testing processes resulted in a remarkable 30% boost in operational efficiency.
 
-• Spearheaded the creation of a sophisticated failure-resolution detection system, leveraging advanced deep-learning sequence models, such as LSTM and RNN. Through meticulous analysis of diverse testing scenarios and extensive test cases, elevated the system's resilience and performance. This initiative exemplified a commitment to pushing the boundaries of technology and ensuring the highest standards in product reliability.
 
-• Played a pivotal role in the evolution of features within the C# and .NET environments, actively engaging in the identification and resolution of bugs. This hands-on experience contributed to a profound understanding of the Agile Software Development Life Cycle (SDLC), emphasizing adaptability and responsiveness in the dynamic development landscape.
+• Pioneered the design and implementation of a sophisticated failure-resolution detection system, leveraging deep learning sequence models such as LSTM and RNN. Utilized extensive testing scenarios and diverse test cases to fortify system robustness and performance, leading to an 11% increase in overall accuracy. Focused on enhancing the product's functionality and reliability.
+
+
+• Actively contributed to diverse feature development in C# and .NET, taking a proactive role in addressing and resolving bugs. Demonstrated a keen understanding of the Agile Software Development Life Cycle (SDLC) while overseeing the comprehensive development process.
+
 
 
 **🏭 Machine Learning Engineer Intern at WiJungle [Jan 2022 - Jun 2022]**
